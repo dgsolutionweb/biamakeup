@@ -13,6 +13,7 @@ export default defineConfig({
       ]
     }
   })],
+  base: '/biamakeup/',
   server: {
     port: 5174,
     host: true
