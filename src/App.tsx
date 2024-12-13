@@ -343,7 +343,7 @@ END:VCARD`;
 
       <Header>
         <LogoContainer>
-          <LogoImage src="./logo.jpeg" alt="Bia Makeup Logo" />
+          <LogoImage src="/biamakeup/logo.jpeg" alt="Bia Makeup Logo" />
           <LogoText>
             <span className="bia">Bia</span>
             <span className="makeup">Makeup</span>
